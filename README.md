@@ -44,29 +44,6 @@ pengelolaanmovie
 
 ---
 
-# Database
-
-## Nama Database
-
-```sql
-CREATE DATABASE movie_db;
-```
-
-## Query Table
-
-```sql
-CREATE TABLE movie (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    judul VARCHAR(100),
-    alur DOUBLE,
-    penokohan DOUBLE,
-    akting DOUBLE,
-    nilai DOUBLE
-);
-```
-
----
-
 # Cara Menjalankan
 
 ## 1. Clone Repository
