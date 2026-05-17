@@ -160,9 +160,6 @@ DAO menangani:
 # Fitur Validasi
 
 Input:
-- Judul
-  
-Sedangkan input lainnya seperti:
 - Alur
 - Penokohan
 - Akting
