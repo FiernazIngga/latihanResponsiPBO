@@ -22,7 +22,7 @@ Project ini dibuat menggunakan:
 # Struktur Project
 
 ```bash
-kelolamovieapk
+pengelolaanmovie
 │
 ├── Connector
 │   └── Connector.java
